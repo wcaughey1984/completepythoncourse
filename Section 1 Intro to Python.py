@@ -73,3 +73,28 @@ print(jose_greeting)
 
 bob_greeting = final_greeting.format("Bob")
 print(bob_greeting)
+
+################################
+# Getting user input in Python #
+################################
+
+# Get users name #
+my_name = "Jose"
+your_name = input("Enter your name: ")
+print(f"Hello {your_name}. My is {my_name}")
+
+# Telling the user how old he is #
+# It's okay to nest a few functions
+age = int(input("Enter your age: "))
+months = age * 12
+print(f"You have lived for {months} months")
+
+##########
+# Quiz 4 #
+##########
+
+# Question 1
+your_name = input("Enter your name: ")
+print(f"Hello {your_name}!")
+
+# Question 2
