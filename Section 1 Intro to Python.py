@@ -98,3 +98,44 @@ your_name = input("Enter your name: ")
 print(f"Hello {your_name}!")
 
 # Question 2
+
+###################
+# Lists in Python #
+###################
+
+friend1 = "Rolf"
+friend2 = "Bob"
+friend3 = "Anne"
+
+friends = ["Rolf", "Bob", "Anne"]
+print(friends)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4f7743f3-1ec5-4fa2-8e4e-777905c62b3e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/Tuples In Python.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Section 1 Intro to Python.py" beforeDir="false" afterPath="$PROJECT_DIR$/../Section 1 Intro to Python.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1e9imFi8AEeQwwPre5pcWOnTFA7" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4f7743f3-1ec5-4fa2-8e4e-777905c62b3e" name="Default Changelist" comment="" />
+      <created>1593740366234</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1593740366234</updated>
+      <workItem from="1593740388145" duration="161000" />
+      <workItem from="1593740688186" duration="275000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="466" y="323" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1593740410532">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="466" y="323" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.23.1440.877/-1080.-997.1080.1897/0.-1057.1920.1057@0.23.1440.877" timestamp="1593740410532" />
+    <state x="279" y="37" key="CommitChangelistDialog2" timestamp="1593741284772">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="279" y="37" key="CommitChangelistDialog2/0.23.1440.877/-1080.-997.1080.1897/0.-1057.1920.1057@0.23.1440.877" timestamp="1593741284772" />
+    <state x="221" y="100" key="SettingsEditor" timestamp="1593740528629">
+      <screen x="0" y="23" width="1440" height="877" />
+    </state>
+    <state x="221" y="100" key="SettingsEditor/0.23.1440.877/-1080.-997.1080.1897/0.-1057.1920.1057@0.23.1440.877" timestamp="1593740528629" />
+  </component>
+</project>
